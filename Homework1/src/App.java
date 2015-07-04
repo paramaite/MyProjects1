@@ -17,5 +17,6 @@ public class App {
         System.out.println(" Количество необходимого материала для постройки палатки myPalatka2 " + myPalatka2.square() + "м2");
 
         System.out.println("я вас всех порву");
+        System.out.println("не надо");
     }
 }

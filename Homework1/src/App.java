@@ -15,8 +15,7 @@ public class App {
         System.out.println("Высота основания " + myPalatka2.visotaOsnovaniya + "; Ширина " + myPalatka2.shirinaOsnovaniya +
                 "; Длина " + myPalatka2.dlina + "; Высота крыши " +  myPalatka2.visotaKrishi + "; Высота дверей " + myPalatka2.visotaDverey + "; Ширина дверей " + myPalatka2.shirinaDverey);
         System.out.println(" Количество необходимого материала для постройки палатки myPalatka2 " + myPalatka2.square() + "м2");
-        System.out.println("haaaaaaaaaaaa");
-        System.out.println("yo");
+
 
     }
 }

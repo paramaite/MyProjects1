@@ -16,6 +16,6 @@ public class App {
                 "; Длина " + myPalatka2.dlina + "; Высота крыши " +  myPalatka2.visotaKrishi + "; Высота дверей " + myPalatka2.visotaDverey + "; Ширина дверей " + myPalatka2.shirinaDverey);
         System.out.println(" Количество необходимого материала для постройки палатки myPalatka2 " + myPalatka2.square() + "м2");
 
-
+        System.out.println("я вас всех порву");
     }
 }
